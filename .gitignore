@@ -1,0 +1,20 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+.env.local
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Codebase
+repomix-output.txt
